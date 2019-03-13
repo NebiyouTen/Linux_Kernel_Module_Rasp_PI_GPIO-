@@ -1,0 +1,2 @@
+clear && make clean && make && ./rm_mod && sudo insmod PI_GPIO.ko && dmesg -w 
+

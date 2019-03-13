@@ -1,0 +1,3 @@
+sudo mknod /dev/PI_GPIO c 243 0
+sudo chmod 777 /dev/PI_GPIO
+ 
